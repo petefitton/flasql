@@ -1,0 +1,9 @@
+lib
+bin
+include
+__pycache__/
+instance/
+.webassets-cache
+.vscode
+.DS_Store
+.pyvenv.cfg
